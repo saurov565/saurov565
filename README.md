@@ -31,10 +31,10 @@
 ### 🧠 About Me
 
 - 🎓 I'm a **Computer Science and Engineering** student.
-- 💡 I’m passionate about everything coding — from frontend to backend to AI!
-- ⚛️ Right now, I’m diving into **NestJS** for backend development.
-- 🤖 I also have a keen interest in **machine learning** and AI systems.
-- 🛠️ Currently exploring **NestJS**, **TypeORM**, and **Python**
+-💡 Passionate software engineer with experience across frontend, backend, and AI.
+-⚛️ Currently specializing in backend development with NestJS and exploring TypeORM.
+-🛠️ Skilled in Python with a strong interest in machine learning and AI systems.
+-🚀 Constantly learning, building, and pushing boundaries in software engineering.
 - 📫 Reach me: **abulbasharsaurov00@gmail.com**
 
 ---
