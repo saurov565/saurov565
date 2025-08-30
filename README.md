@@ -3,9 +3,9 @@
 
 <h2 align="center">Hi Evereyone, Abul Bashar Saurov👋</h2>
 <p align="center">
-  🎓 <b>CSE Student</b> | 👶 <b>New Programmer</b> | 🧠 <b>Lifelong Learner</b><br/>
-  🧩 "Passionate about transforming data into intelligent solutions through expertise in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>." 
-</p>
+  <p>🎓 <strong>Computer Science Student</strong> | 👶 <strong>Aspiring Programmer</strong> | 🧠 <strong>Dedicated Learner</strong></p>
+<p>🧩 <em>"Driven by a passion for transforming raw data into intelligent solutions through the fields of <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>."</em></p>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=saurov565" width="120" alt="Profile Views of Abul Bashar Saurov">
