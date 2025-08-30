@@ -87,7 +87,7 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" width="40" height="40" title="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40" title="Ubuntu"/>
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" width="40" height="40" title="MacOS"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Windows365-logo.svg" width="40" height="40" title="Windows"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#00ADEF" d="M126 1.637l-67 9.834v49.831l67-.534zM1.647 66.709l.003 42.404 50.791 6.983-.04-49.057zm56.82.68l.094 49.465 67.376 9.509.016-58.863zM1.61 19.297l.047 42.383 50.791-.289-.023-49.016z"/></svg>
 </p>
 
 ### **Project Management & Tools**
