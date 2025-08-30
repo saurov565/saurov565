@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi Evereyone, I am Abul Bashar Saurov👋</h2>
 <p align="center">
-  <p>🎓 <strong>Computer Science Student</strong> | 👶 <strong>Aspiring Programmer</strong> | 🧠 <strong>Dedicated Learner</strong></p>
+  <p>🎓 <strong>Computer Science Student</strong> | 👶 <strong>Aspiring Programmer</strong> | 🧠 <strong>Quick Learner</strong> | 🧠 <strong> Learning Researcher</strong></p>
 <p>🧩 <em>"Driven by a passion for transforming raw data into intelligent solutions through the fields of <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>."</em></p>
 
 
