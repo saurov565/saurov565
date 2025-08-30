@@ -1,5 +1,5 @@
 <!-- Full-width Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=MRIDUL%20KANTI%20KUNDU&fontSize=40&fontAlign=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=ABUL%20BASHAR%20SAUROV&fontSize=40&fontAlign=50&fontColor=ffffff" width="100%"/>
 
 <h2 align="center">Hi Evereyone, Abul Bashar Saurov👋</h2>
 <p align="center">
@@ -24,8 +24,7 @@
   <a href="mailto:abulbasharsaurov00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abul-bashar-saurov-382760230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/saurov565"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://facebook.com/mridul.kanti.kundu.2024"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/silent_kkiller98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abulbasharsaurov"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,7 +36,7 @@
 - ⚛️ Right now, I’m diving into **NestJS** for backend development.
 - 🤖 I also have a keen interest in **machine learning** and AI systems.
 - 🛠️ Currently exploring **NestJS**, **TypeORM**, and **Python**
-- 📫 Reach me: **mridulkundu98@gmail.com**
+- 📫 Reach me: **abulbashaarsaurov00@gmail.com**
 
 ---
 
@@ -106,8 +105,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridulCSE98&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulCSE98&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurov565&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurov565&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
@@ -115,24 +114,13 @@
 ### 🏆 GitHub Streak & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mridulCSE98&theme=radical&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=saurov565&theme=radical&hide_border=true" height="180" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=mridulCSE98&theme=radical&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurov565&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
-
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
 
 <!-- Footer Wave -->
 <p align="center">
