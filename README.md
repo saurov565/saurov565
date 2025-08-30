@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saurov565/About-Self/raw/main/Mridul_Kanti_Kundu.pdf" target="_blank">
+  <a href="https://github.com/saurov565/saurov565/raw/main/" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV"/>
   </a>
 </p>
