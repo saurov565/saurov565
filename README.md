@@ -1,7 +1,7 @@
 <!-- Full-width Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=200&section=header&text=ABUL%20BASHAR%20SAUROV&fontSize=40&fontAlign=50&fontColor=ffffff" width="100%"/>
 
-<h2 align="center">Hi Evereyone, Abul Bashar Saurov👋</h2>
+<h2 align="center">Hi Evereyone, I am Abul Bashar Saurov👋</h2>
 <p align="center">
   <p>🎓 <strong>Computer Science Student</strong> | 👶 <strong>Aspiring Programmer</strong> | 🧠 <strong>Dedicated Learner</strong></p>
 <p>🧩 <em>"Driven by a passion for transforming raw data into intelligent solutions through the fields of <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>."</em></p>
