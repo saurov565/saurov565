@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mridulCSE98" width="120" alt="Profile Views of Mridul Kanti Kundu">
+    <img src="https://komarev.com/ghpvc/?username=saurov565" width="120" alt="Profile Views of Abul Bashar Saurov">
 </p>
 
 <p align="center">
-  <a href="https://github.com/mridulCSE98/mridulCSE98/raw/main/Mridul_Kanti_Kundu.pdf" target="_blank">
+  <a href="https://github.com/saurov565/About-Self/raw/main/Mridul_Kanti_Kundu.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV"/>
   </a>
 </p>
@@ -36,7 +36,7 @@
 - ⚛️ Right now, I’m diving into **NestJS** for backend development.
 - 🤖 I also have a keen interest in **machine learning** and AI systems.
 - 🛠️ Currently exploring **NestJS**, **TypeORM**, and **Python**
-- 📫 Reach me: **abulbashaarsaurov00@gmail.com**
+- 📫 Reach me: **abulbasharsaurov00@gmail.com**
 
 ---
 
