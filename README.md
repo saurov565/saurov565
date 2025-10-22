@@ -35,7 +35,7 @@
 - ⚛️ Currently try to research with maachine learning and deep learning domain.  
 - 🛠️ Skilled in Python with a strong interest in machine learning and AI systems.  
 - 🚀 Constantly learning, building, and pushing boundaries in machine learning and deep learning.  
-- 📫 Reach me: [abulbasharsaurov00@gmail.com](mailto:abulbasharsaurov00@gmail.com)
+- 📫 Reach me: [abulbasharsaurov110@gmail.com](mailto:abulbasharsaurov110@gmail.com)
 
 ---
 
