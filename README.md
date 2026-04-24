@@ -23,7 +23,7 @@ Hi there! I'm **Abul Bashar Saurov**, a passionate **Computer Science & Engineer
 - 🤖 Deep interest in **Machine Learning**, **Deep Learning** & **Data Science**
 - 🔬 Actively exploring ML/DL research and real-world applications
 - 🌱 Lifelong learner — pushing boundaries one model at a time
-- 📍 **Dhaka, Bangladesh** · `UTC +06:00`
+
 
 ---
 
