@@ -125,7 +125,7 @@ Relational database design covering schema normalization, complex queries, joins
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">⚡ Netflix Customer Churn Analytics</h3>
+<h3 align="center"> 🎬 Netflix Customer Churn Analytics</h3>
 <div align="center">
 
 ![WIP](https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square)
