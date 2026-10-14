@@ -138,7 +138,7 @@ Who is about to cancel, and what gives it away? An end-to-end churn analysis in 
 
 <div align="center">
 
-[![View →](https://img.shields.io/badge/Follow%20on%20GitHub%20→-181717?style=for-the-badge&logo=github)](https://github.com/saurov565/Netflix-Customer-Churn-Analytics)
+[![View →][![View →](https://img.shields.io/badge/View%20Project%20→-4479A1?style=for-the-badge)](https://github.com/saurov565/Netflix-Customer-Churn-Analytics)
 
 </div>
 </td>
