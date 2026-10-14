@@ -128,8 +128,9 @@ Relational database design covering schema normalization, complex queries, joins
 <h3 align="center"> 🎬 Netflix Customer Churn Analytics</h3>
 <div align="center">
 
-![WIP](https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square)
-![ML](https://img.shields.io/badge/Domain-ML%20%2F%20AI-F59E0B?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Analysis](https://img.shields.io/badge/Statistical%20Analysis-276DC3?style=flat-square)
+
 
 </div>
 
@@ -137,7 +138,7 @@ Who is about to cancel, and what gives it away? An end-to-end churn analysis in 
 
 <div align="center">
 
-[![Follow →](https://img.shields.io/badge/Follow%20on%20GitHub%20→-181717?style=for-the-badge&logo=github)](https://github.com/saurov565/Netflix-Customer-Churn-Analytics)
+[![View →](https://img.shields.io/badge/Follow%20on%20GitHub%20→-181717?style=for-the-badge&logo=github)](https://github.com/saurov565/Netflix-Customer-Churn-Analytics)
 
 </div>
 </td>
