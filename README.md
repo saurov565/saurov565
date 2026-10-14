@@ -137,7 +137,7 @@ Relational database design covering schema normalization, complex queries, joins
 
 <div align="center">
 
-[![Follow →](https://img.shields.io/badge/Follow%20on%20GitHub%20→-181717?style=for-the-badge&logo=github)](https://github.com/saurov565)
+[![Follow →](https://img.shields.io/badge/Follow%20on%20GitHub%20→-181717?style=for-the-badge&logo=github)](https://github.com/saurov565/Netflix-Customer-Churn-Analytics)
 
 </div>
 </td>
