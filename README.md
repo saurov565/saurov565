@@ -133,7 +133,7 @@ Relational database design covering schema normalization, complex queries, joins
 
 </div>
 
-🔨 Currently building new ML & Deep Learning projects. Hit **Follow** to stay updated when new work drops!
+Who is about to cancel, and what gives it away? An end-to-end churn analysis in R, from raw data to a Random Forest that catches 97% of cancellations.
 
 <div align="center">
 
